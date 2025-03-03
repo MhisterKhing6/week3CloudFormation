@@ -1,0 +1,4 @@
+template-file-path: deploy-dev.yaml
+parameters:
+  KeyName: week3lab
+tags: {}
